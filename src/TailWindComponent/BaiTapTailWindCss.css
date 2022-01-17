@@ -1,0 +1,19 @@
+.top__content {
+    @apply text-center p-5 bg-gray-100;
+}
+
+.bottom__content {
+    @apply bg-gray-200 flex justify-between p-2;
+}
+
+.card__background {
+    @apply rounded-lg w-72 h-52 mr-3 shadow-md;
+}
+
+.card__title {
+    @apply text-purple-500 font-bold text-xs;
+}
+
+.card__button {
+    @apply bg-purple-500 rounded-md p-1 text-white;
+}
