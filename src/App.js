@@ -20,21 +20,7 @@ import WidthHeightDemo from "./TailWindComponent/WidthHeightDemo";
 function App() {
   return (
     <div className="">
-      {/* <DemoGrid/> */}
-      {/* <PaddingMarginDemo/> */}
-      {/* <WidthHeightDemo/> */}
-      {/* <FlexDemo/> */}
-      {/* <BorderRadiusDemo/> */}
-      {/* <ResponsiveDemo/> */}
-      {/* <CustomCss/> */}
-      {/* <BaiTapTailWind/> */}
-      {/* <JoinDemo/> */}
-      {/* <ChunkLodash/> */}
-      {/* <SortLodash/> */}
-      {/* <UniqLodash/> */}
-      {/* <FlattrenLodash/> */}
-      {/* <CompareObject/> */}
-      <BaiTapTongHop />
+      
     </div>
   );
 }
