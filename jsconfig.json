@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+      "baseUrl": "./src",
+      "paths": {
+        "Redux/*": ["./src/Redux/*"],
+        "components/*": ["./src/components/*"],
+        "pages/*": ["./src/pages/*"],
+        "util/*": ["./src/util/*"],
+        "services/*": ["./src/services/*"],
+        "assets/*": ["./src/assets/*"],
+        "templates/*": ["./src/templates"],
+        "_core/*": ["./src/_core/*"]
+      }
+    }
+  }
+  
