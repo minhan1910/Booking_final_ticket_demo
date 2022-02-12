@@ -5,7 +5,7 @@ import "./App.css";
 //có gì thay đổi so với branch master thì add r commit cho nó update lại
 function App() {
   return (
-    <div className="">
+    <div className="container">
       123
     </div>
   );
